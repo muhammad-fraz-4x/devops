@@ -1,10 +1,11 @@
 # devops
-this is my first repository
+this is my first repository<br>
 Malik Ammar Chima<br>
-Malik Ammar Chima
-Malik Ammar Chima
-Malik Ammar Chima
-Malik Ammar Chima 
-Mirza Ali Engineer Palumber
-Mirza Ali Engineer Palumber
-Mirza Ali Engineer Palumber
+Malik Ammar Chima <br>
+Malik Ammar Chima <br>
+Malik Ammar Chima <br>
+Malik Ammar Chima <br>
+Mirza Ali Engineer Palumber<br>
+Mirza Ali Engineer Palumber<br>
+Mirza Ali Engineer Palumber<br>
+Malik Ammar Chima <br>
